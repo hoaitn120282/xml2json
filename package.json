@@ -1,0 +1,20 @@
+{
+  "name": "xml2json",
+  "version": "1.0.0",
+  "description": "Something for description in your package",
+  "main": "index.js",
+  "repository:"{
+   "type":"git",
+   "url":"https://github.com/hoaitn120282/xml2json.git"
+  },
+  "scripts": {
+    "test": "some command"
+  },
+  "keywords": [
+    "xml",
+    "json",
+    "convert"
+  ],
+  "author": "Henry Tran",
+  "license": "ISC"
+}
